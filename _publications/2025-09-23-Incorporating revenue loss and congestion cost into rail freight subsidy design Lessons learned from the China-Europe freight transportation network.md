@@ -20,4 +20,4 @@ China Railway Express, subsidy allocation, multimodal multicommodity transportat
 
 Received 22 July 2025; Received in revised form 7 September 2025; Accepted 21 September 2025; Available online 23 September 2025; Version of record 18 October 2025
 
-Indexed in Social Sciences Citation Index (SSCI), Web of Science Core Collection [Accession Number: [001602460900001](https://webofscience.clarivate.cn/wos/woscc/full-record/WOS:001602460900001)]
+Indexed in Social Sciences Citation Index (SSCI), Web of Science Core Collection on 2 November 2025 [Accession Number: [001602460900001](https://webofscience.clarivate.cn/wos/woscc/full-record/WOS:001602460900001)]
