@@ -19,3 +19,18 @@ Formation
 >
 > Réalisation d'un projet de recherche au [LISITE](https://www.isep.fr/la-recherche/) (Laboratoire d’Informatique, Signal et Image, Électronique et Télécommunications) sous la supervision du [Dr Ercüment Yılmaz](https://scholar.google.com/citations?user=1UesTpIAAAAJ&hl=fr) (chercheur postdoctoral) et de la [Prof. Maria Trocan](https://scholar.google.com/citations?user=XEnZikgAAAAJ&hl=fr&oi=sra). Le projet était dédié à la classification du mélanome en exploitant des architectures de réseaux de neurones convolutionnels (AlexNet, GoogLeNet, ResNet) sur des images dermoscopiques de la base ISIC.
 * 2014.09 – 2017.06: Lycée Yan'an de Shanghai, Shanghai, Chine.
+
+Publications
+======
+
+Articles de revues
+------
+Chi Xie\*, **Rusi Wang**, Dianlei Wang, Bo Zou, Xiaowen Fu, Xiqun Chen, Qing-Chang Lu. Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network. *Transport Policy*, 2025, 174: 103819. [[DOI](https://doi.org/10.1016/j.tranpol.2025.103819)][Télécharger sur [HAL](https://hal.science/hal-05339561/)]
+
+**Rusi Wang**, Jingyu Huang\*. Interior noise prediction of inter-coach space of high-speed maglev trains based on wavenumber decomposition on aerodynamic excitation. *Noise & Vibration Worldwide*, 2024, 55(6-7): 304-321. [[DOI](https://doi.org/10.1177/09574565241252989)]
+
+**Rusi Wang**, Jingyu Huang. Numerical investigation into characteristics of far-field aerodynamic noise radiated by inter-coach space of high-speed maglev trains. *Noise & Vibration Worldwide*, 2022, 53(9-10): 464-479. [[DOI](https://doi.org/10.1177/09574565221128063)]
+
+Articles de conférence
+------
+**Rusi Wang**, Chi Xie\*, Bo Zou, Xiaowen Fu. Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market. Présenté à *105th Annual Meeting of the Transportation Research Board*, Washington, D.C., 2026. [Télécharger sur [HAL](https://hal.science/hal-05338780/)]
