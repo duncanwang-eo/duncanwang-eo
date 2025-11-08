@@ -1,37 +1,16 @@
 ---
 layout: archive
-title: "Experience"
-permalink: /experience/
+title: "News"
+permalink: /news/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Education
-======
-* 2024.09 – present, Ph.D. Student in Urban Mobility, College of Transportation, Tongji University, Shanghai, China (Supervisor: Prof. Chi Xie)
-* 2021.09 – 2024.05, M.Sc.(Eng.) in Vehicle Operation Engineering, Institute of Rail Transit, Tongji University, Shanghai, China
-* 2017.09 – 2021.07, B.Eng. in Internet of Things Engineering, School of Information and Communication Engineering, University of Electronic Science and Technology of China, Chengdu, China
-> In December 2017, I was selected into the "[Liren Honors Class of Project Pillars, School of Information and Communication Engineering](https://mp.weixin.qq.com/s/ew-8znWxv4uh3Q9MWJyc2A)" (Top 2% of the School).
-* 2019.09 – 2020.02, Visiting Undergraduate Student Awarded by China Scholarship Council (CSC), Institut Supérieur d'Électronique de Paris, Paris, France
-> Intensive French language training (CEFR B1.1) at the [Institute of French Language and Culture (ILCF) - Catholic Institute of Paris (Université Paris Cité)](https://ilcf.icp.fr/en). Achieved a top grade A, ranking first in a cohort of 14 students of homogeneous level.
-* 2014.09 – 2017.06, Shanghai Yan'an High School, Shanghai, China
+# NEWS
 
-Visiting Research & Academic Programs
-======
-* Research Trainee at [Institut Supérieur d'Électronique de Paris](https://www.isep.fr/en/), September 2019 – February 2020
-> Conducted research at [LISITE](https://www.isep.fr/en/research-at-isep/) under the supervision of [Dr. Ercüment Yılmaz](https://scholar.google.com/citations?user=1UesTpIAAAAJ&hl=en) (post-doctoral fellow) and [Prof. Maria Trocan](https://scholar.google.com/citations?user=XEnZikgAAAAJ&hl=en&oi=sra), focusing on melanoma classification using CNN models (AlexNet, GoogLeNet, ResNet) trained on dermoscopic images from the ISIC database.
-* [Oxford University Academic Experience Programme](https://oice.uestc.edu.cn/__local/2/4C/BB/27A567A3E5B5C7B359C5451CA54_CA427CB4_2DE9F7.pdf?e=.pdf), January 2018 – February 2018
+**Paper accepted by <em>TRB 2026</em>, 29 October 2025 \|** My research paper "[Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market](https://rusiwang99.github.io/publication/2026-01-11-Mitigating%20revenue%20loss%20and%20congestion%20surcharge%20by%20rail%20freight%20subsidy%20optimization%20in%20a%20multimodal%20multicommodity%20freight%20transportation%20market)" is accepted by [<em>105th Annual Meeting of the Transportation Research Board</em>](https://www.nationalacademies.org/event/886_01-2026_2026-trb-annual-meeting) [[PDF](https://rusiwang99.github.io/files/TRBAM-26-04956.pdf)].
 
-Scholarships
-======
-* Excellent Graduate Student Scholarship, Tongji University (¥5,000, Ranking: 2/32), December 2023
-* Excellent Student Scholarship, University of Electronic Science and Technology of China (¥2,000), December 2019
-* Scholarship Under the State Scholarship Fund (€5,250), June 2019
-* Innovation and Entrepreneurship Scholarship, University of Electronic Science and Technology of China (¥1,000), December 2018
+**Paper accepted by <em>TP</em>, 21 September 2025 \|** The research paper "[Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network](https://rusiwang99.github.io/publication/2025-09-23-Incorporating%20revenue%20loss%20and%20congestion%20cost%20into%20rail%20freight%20subsidy%20design%20Lessons%20learned%20from%20the%20China-Europe%20freight%20transportation%20network)", with my supervisor as the first author and me as the second author, is accepted by [<em>Transport Policy</em>](https://www.sciencedirect.com/journal/transport-policy) (SSCI, IF=5.3, <strong>CAS Tier 1-Top</strong>)[[PDF](https://rusiwang99.github.io/files/JTRP_103819.pdf)].
 
-Honors & Awards
-======
-* Honorable Mention, 2019 Interdisciplinary Contest in Modeling (Team Captain), April 2019
-* Second Prize (Ranking 6–20 among 218 teams), 2018 Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling Simulation Contest, University of Electronic Science and Technology of China (Team Captain), November 2018
-* Provincial First Prize, 2018 Sichuan Province Undergraduate Electronics Design Contest, August 2018
+**Join TESLA, 26 August 2024 \|** I'm excited to join the TESLA&mdash;Transport and Energy Systems Laboratory&mdash;under the supervision of Professor Chi Xie, opening a new chapter in my research journey in operations research!
