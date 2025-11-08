@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+{{ content }}
+
+{% assign news_sorted = site.news | sort: 'date' | reverse %}
+{% for news in news_sorted %}
+  <div class="news-list-item">
+    <h2>
+      <a href="{{ news.url | relative_url }}">{{ news.title }}</a>
+    </h2>
+    <p class="news-meta">
+      <time datetime="{{ news.date | date_to_xmlschema }}">
+        {{ news.date | date: "%B %d, %Y" }}
+      </time>
+    </p>
+    <p class="news-excerpt">
+      {{ news.excerpt | strip_html | truncate: 200 }}
+    </p>
+    <a href="{{ news.url | relative_url }}" class="btn btn--small">Read more →</a>
+  </div>
+  <hr>
+{% endfor %}
