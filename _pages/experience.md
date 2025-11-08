@@ -14,6 +14,7 @@ Education
 * 2017.09 – 2021.07, B.Eng. in Internet of Things Engineering, School of Information and Communication Engineering, University of Electronic Science and Technology of China, Chengdu, China
 > In December 2017, I was selected into the "[Liren Honors Class of Project Pillars, School of Information and Communication Engineering](https://mp.weixin.qq.com/s/ew-8znWxv4uh3Q9MWJyc2A)" (Top 2% of the School).
 * 2019.09 – 2020.02, Visiting Undergraduate Student Awarded by China Scholarship Council (CSC), Institut Supérieur d'Électronique de Paris, Paris, France
+> Intensive French language training (CEFR B1.1) at the [Institute of French Language and Culture (ILCF) - Catholic Institute of Paris (Université Paris Cité)](https://ilcf.icp.fr/en). Achieved a top grade A, ranking first in a cohort of 14 students of homogeneous level.
 * 2014.09 – 2017.06, Shanghai Yan'an High School, Shanghai, China
 
 Visiting Research & Academic Programs
