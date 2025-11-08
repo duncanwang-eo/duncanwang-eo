@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: ""
+title: "Welcome to Rusi Wang's homepage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Welcome to Rusi Wang's homepage!
 
 I was born in February 1999 in Shanghai, China. I obtained my B.Eng. degree from the [University of Electronic Science and Technology of China](https://en.wikipedia.org/wiki/University_of_Electronic_Science_and_Technology_of_China) (Project 985, QS-ranking #=519) in 2021 and my M.Sc.(Eng.) degree from [Tongji University](https://en.wikipedia.org/wiki/Tongji_University) (Project 985, QS-ranking #=177) in 2024. I am currently a Ph.D. student at [Urban Mobility Institute](http://umi.tongji.edu.cn/), Tongji University.
 
