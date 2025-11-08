@@ -216,7 +216,7 @@ collections:
     permalink: /:collection/:path/
   news:
     output: true
-    permalink: /:collection/:path/
+    permalink: /news/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
