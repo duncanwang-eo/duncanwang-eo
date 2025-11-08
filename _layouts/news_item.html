@@ -3,7 +3,50 @@ layout: default
 ---
 
 <article class="news-item" itemscope itemtype="https://schema.org/CreativeWork">
-  <div class="news-content">
+  <header>
+    <h1 class="news-title" itemprop="headline">{{ page.title }}</h1>
+    <p class="news-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: "%B %d, %Y" }}
+      </time>
+    </p>
+  </header>
+
+  <div class="news-content" itemprop="text">
     {{ content }}
   </div>
+
+  <!-- 图片展示区域 -->
+  {% if page.images %}
+  <div class="news-gallery">
+    <h2>Related Images</h2>
+    <div class="gallery-grid">
+      {% for image in page.images %}
+      <div class="gallery-item">
+        <img src="{{ image.url }}" alt="{{ image.alt }}" class="news-image">
+        {% if image.caption %}
+        <p class="image-caption">{{ image.caption }}</p>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  <!-- 相关链接 -->
+  {% if page.links %}
+  <div class="news-links">
+    <h2>Related Links</h2>
+    <ul>
+      {% for link in page.links %}
+      <li><a href="{{ link.url }}">{{ link.name }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  <!-- 导航 -->
+  <nav class="news-navigation">
+    <a href="{{ '/news/' | relative_url }}" class="btn btn--primary">← Back to News Archive</a>
+  </nav>
 </article>
