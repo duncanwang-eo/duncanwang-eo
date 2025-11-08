@@ -268,7 +268,7 @@ defaults:
       path: ""
       type: news
     values:
-      layout: news_item
+      layout: news
       author_profile: true
       share: true
       comments: true
