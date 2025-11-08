@@ -7,6 +7,8 @@ author_profile: true
 
 You can also find my publication profiles on [Google Scholar](https://scholar.google.com/citations?user=bBc5rVMAAAAJ&hl=en), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57941343300), and [Web of Science](https://webofscience.clarivate.cn/wos/author/record/IZQ-3081-2023) for citation metrics, and on [ResearchGate](https://www.researchgate.net/profile/Rusi-Wang-2), [Academia](https://tongji.academia.edu/RusiWang), or [HAL Science](https://cv.hal.science/rusi-wang) where postprints (accepted manuscripts) are available for download.
 
+In the lists below, the corresponding author is marked with an asterisk (<sup>*</sup>).
+
 Journal Articles
 ======
 
@@ -14,7 +16,7 @@ Chi Xie\*, **Rusi Wang**, Dianlei Wang, Bo Zou, Xiaowen Fu, Xiqun Chen, Qing-Cha
 
 **Rusi Wang**, Jingyu Huang\*. Interior noise prediction of inter-coach space of high-speed maglev trains based on wavenumber decomposition on aerodynamic excitation. *Noise & Vibration Worldwide*, 2024, 55(6-7): 304-321. [[DOI](https://doi.org/10.1177/09574565241252989)][[View details](https://rusiwang99.github.io/publication/2024-05-28-Interior%20noise%20prediction%20of%20inter-coach%20space%20of%20high-speed%20maglev%20trains%20based%20on%20wavenumber%20decomposition%20on%20aerodynamic%20excitation)] (EI, Scopus Q2)
 
-**Rusi Wang**, Jingyu Huang. Numerical investigation into characteristics of far-field aerodynamic noise radiated by inter-coach space of high-speed maglev trains. *Noise & Vibration Worldwide*, 2022, 53(9-10): 464-479. [[DOI](https://doi.org/10.1177/09574565221128063)][[View details](https://rusiwang99.github.io/publication/2022-10-20-Numerical%20investigation%20into%20characteristics%20of%20far-field%20aerodynamic%20noise%20radiated%20by%20inter-coach%20space%20of%20high-speed%20maglev%20trains)] (EI)
+**Rusi Wang\***, Jingyu Huang. Numerical investigation into characteristics of far-field aerodynamic noise radiated by inter-coach space of high-speed maglev trains. *Noise & Vibration Worldwide*, 2022, 53(9-10): 464-479. [[DOI](https://doi.org/10.1177/09574565221128063)][[View details](https://rusiwang99.github.io/publication/2022-10-20-Numerical%20investigation%20into%20characteristics%20of%20far-field%20aerodynamic%20noise%20radiated%20by%20inter-coach%20space%20of%20high-speed%20maglev%20trains)] (EI)
 
 Conference Papers
 ======
