@@ -11,7 +11,7 @@ Je suis encadré par le [Prof. Chi Xie](https://scholar.google.com/citations?hl=
 
 Formation
 ======
-* 2024.09 – présent: Doctorat en Mobilité Urbaine, Collège des Transports, Université Tongji, Shanghai, Chine.
+* 2024.09 – présent: Doctorant en Mobilité Urbaine, Collège des Transports, Université Tongji, Shanghai, Chine.
 * 2021.09 – 2024.05: Master en Génie de l'Exploitation des Véhicules, Institut des Transports Ferroviaires, Université Tongji, Shanghai, Chine.
 * 2017.09 – 2021.07: Licence en Génie de l'Internet des Objets, École d'Ingénierie de l'Information et de la Communication, Université des Sciences et Technologies Électroniques de Chine, Chengdu, Chine.
 * 2019.09 – 2020.02: Étudiant invité de premier cycle (bourse du Conseil des Bourses de Chine), Institut Supérieur d'Électronique de Paris, Paris, France.
