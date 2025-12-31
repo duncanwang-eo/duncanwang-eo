@@ -19,9 +19,6 @@ Education
 > Conducted research at [LISITE](https://www.isep.fr/en/research-at-isep/) under the supervision of [Dr. Ercüment Yılmaz](https://scholar.google.com/citations?user=1UesTpIAAAAJ&hl=en) (post-doctoral fellow) and [Prof. Maria Trocan](https://scholar.google.com/citations?user=XEnZikgAAAAJ&hl=en&oi=sra), focusing on melanoma classification using CNN models (AlexNet, GoogLeNet, ResNet) trained on dermoscopic images from the ISIC database.
 * 2014.09 – 2017.06, Shanghai Yan'an High School, Shanghai, China
 
-<! -- Visiting Research & Academic Programs
- [Oxford University Academic Experience Programme](https://oice.uestc.edu.cn/__local/2/4C/BB/27A567A3E5B5C7B359C5451CA54_CA427CB4_2DE9F7.pdf?e=.pdf), January 2018 – February 2018 -- >
-
 Scholarships
 ======
 * Excellent Graduate Student Scholarship, Tongji University (¥5,000, Ranking: 2/32), December 2023
