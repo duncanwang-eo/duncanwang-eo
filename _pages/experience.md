@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+<div style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
+
 Education
 ======
 * 2024.09 – present, Ph.D. Candidate in Urban Mobility, College of Transportation, Tongji University, Shanghai, China (Supervisor: Prof. Chi Xie)
@@ -31,3 +33,5 @@ Honors and Awards
 * Honorable Mention, 2019 Interdisciplinary Contest in Modeling (Team Captain), April 2019
 * Second Prize (Ranking 6–20 among 218 teams), 2018 Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling Simulation Contest, University of Electronic Science and Technology of China (Team Captain), November 2018
 * Provincial First Prize, 2018 Sichuan Province Undergraduate Electronics Design Contest, August 2018
+
+</div>
