@@ -14,7 +14,7 @@ Education
 * 2024.09 – present, Ph.D. Candidate in Urban Mobility, College of Transportation, Tongji University, Shanghai, China (Supervisor: Prof. Chi Xie)
 * 2021.09 – 2024.05, M.Sc.(Eng.) in Vehicle Operation Engineering, Institute of Rail Transit, Tongji University, Shanghai, China
 * 2017.09 – 2021.07, B.Eng. in Internet of Things Engineering, School of Information and Communication Engineering, University of Electronic Science and Technology of China, Chengdu, China
-> In December 2017, I was selected into the "[Liren Honors Class of Project Pillars, School of Information and Communication Engineering](https://mp.weixin.qq.com/s/ew-8znWxv4uh3Q9MWJyc2A)" (Top 2% of the School).
+> In December 2017, I was selected into the "[Liren Honors Class of Project Pillars, School of Information and Communication Engineering](https://mp.weixin.qq.com/s/ew-8znWxv4uh3Q9MWJyc2A)".
 * 2019.09 – 2020.02, Visiting Undergraduate Student Awarded by China Scholarship Council (CSC), Institut Supérieur d'Électronique de Paris, Paris, France
 > Conducted research at [Laboratoire d’Informatique, Signal et Image, Électronique et Télécommunications](https://www.isep.fr/en/research-at-isep/) under the supervision of [Dr. Ercüment Yılmaz](https://scholar.google.com/citations?user=1UesTpIAAAAJ&hl=en) (post-doctoral fellow) and [Prof. Maria Trocan](https://scholar.google.com/citations?user=XEnZikgAAAAJ&hl=en&oi=sra), focusing on melanoma classification using CNN models (AlexNet, GoogLeNet, ResNet) trained on dermoscopic images from the ISIC database.
 > 
@@ -26,12 +26,10 @@ Scholarships
 * Excellent Graduate Student Scholarship, Tongji University (¥5,000, Ranking: 2/32), December 2023
 * Excellent Student Scholarship, University of Electronic Science and Technology of China (¥2,000), December 2019
 * Scholarship Under the State Scholarship Fund (€5,250), June 2019
-* Innovation and Entrepreneurship Scholarship, University of Electronic Science and Technology of China (¥1,000), December 2018
 
 Honors and Awards
 ======
 * Honorable Mention, 2019 Interdisciplinary Contest in Modeling (Team Captain), April 2019
-* Second Prize (Ranking 6–20 among 218 teams), 2018 Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling Simulation Contest, University of Electronic Science and Technology of China (Team Captain), November 2018
-* Provincial First Prize, 2018 Sichuan Province Undergraduate Electronics Design Contest, August 2018
+* First Prize, 2018 Sichuan Province Undergraduate Electronics Design Contest, August 2018
 
 </div>
