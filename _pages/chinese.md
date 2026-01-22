@@ -17,23 +17,19 @@ author_profile: true
 * 2019年9月–2020年2月, 巴黎高等电子学院，国家留学基金委优秀本科生国际交流项目（“优本”项目），本科插班生
 * 2014年9月–2017年6月，上海市延安中学
 
-学术成果
+代表性学术成果
 ======
 
 期刊论文
 ------
-Chi Xie\*, **Rusi Wang**, Dianlei Wang, Bo Zou, Xiaowen Fu, Xiqun Chen, Qing-Chang Lu. Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network. *Transport Policy*, 2025, 174: 103819. [[DOI](https://doi.org/10.1016/j.tranpol.2025.103819)] (SSCI, IF=5.3, 中科院一区Top)
-
-**Rusi Wang**, Jingyu Huang\*. Interior noise prediction of inter-coach space of high-speed maglev trains based on wavenumber decomposition on aerodynamic excitation. *Noise & Vibration Worldwide*, 2024, 55(6-7): 304-321. [[DOI](https://doi.org/10.1177/09574565241252989)] (EI, Scopus Q2)
-
-**Rusi Wang\***, Jingyu Huang. Numerical investigation into characteristics of far-field aerodynamic noise radiated by inter-coach space of high-speed maglev trains. *Noise & Vibration Worldwide*, 2022, 53(9-10): 464-479. [[DOI](https://doi.org/10.1177/09574565221128063)] (EI)
+Chi Xie (谢驰)\*, **Rusi Wang (王铷锶)**, Dianlei Wang (王殿雷), Bo Zou (邹博), Xiaowen Fu (符啸文), Xiqun Chen (陈喜群), Qing-Chang Lu (路庆昌). Incorporating revenue loss and congestion cost into rail freight subsidy design: Lessons learned from the China-Europe freight transportation network. *Transport Policy*, 2025, 174: 103819. [[DOI](https://doi.org/10.1016/j.tranpol.2025.103819)] (SSCI, IF=5.3, 中科院一区Top)
 
 会议论文
 ------
-**Rusi Wang**, Chi Xie\*, Bo Zou, Xiaowen Fu. Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market. Presented at *105th Annual Meeting of the Transportation Research Board*, Washington, D.C., U.S., 11-15 January 2026.
+**Rusi Wang (王铷锶)**, Chi Xie (谢驰)\*, Bo Zou (邹博), Xiaowen Fu (符啸文). Mitigating revenue loss and congestion surcharge by rail freight subsidy optimization in a multimodal multicommodity freight transportation market. Presented at *105th Annual Meeting of the Transportation Research Board*, Washington, D.C., U.S., 11-15 January 2026.
 
 工作论文
 ------
-**Rusi Wang**, Chi Xie\*. Linear programming formulation for dynamic user equilibrium based on Nesterov's stable dynamics. (拟投稿)
+**Rusi Wang (王铷锶)**, Chi Xie (谢驰)\*. Linear programming formulation for dynamic user equilibrium based on Nesterov's stable dynamics. (拟投稿)
 
 </div>
