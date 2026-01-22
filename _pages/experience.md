@@ -18,7 +18,7 @@ Education
 * 2019.09 – 2020.02, Visiting Undergraduate Student Awarded by China Scholarship Council (CSC), Institut Supérieur d'Électronique de Paris, Paris, France
 > Conducted research at [Laboratoire d’Informatique, Signal et Image, Électronique et Télécommunications](https://www.isep.fr/en/research-at-isep/){:target="_blank"} under the supervision of [Dr. Ercüment Yılmaz](https://scholar.google.com/citations?user=1UesTpIAAAAJ&hl=en){:target="_blank"} (post-doctoral fellow) and [Prof. Maria Trocan](https://scholar.google.com/citations?user=XEnZikgAAAAJ&hl=en&oi=sra){:target="_blank"}, focusing on melanoma classification using CNN models (AlexNet, GoogLeNet, ResNet) trained on dermoscopic images from the ISIC database.
 > 
-> Intensive French language training (CEFR B1.1) at the [Institute of French Language and Culture (ILCF) - Catholic Institute of Paris (Université Paris Cité)](https://ilcf.icp.fr/en){:target="_blank"}. Achieved a top grade A, ranking first in a class of 14 students of homogeneous level.
+> Intensive French language training (CEFR B1.1) at the [Institute of French Language and Culture (ILCF)](https://ilcf.icp.fr/en){:target="_blank"}. Achieved a top grade A, ranking first in a class of 14 students of homogeneous level.
 * 2014.09 – 2017.06, Shanghai Yan'an High School, Shanghai, China
 
 Scholarships
