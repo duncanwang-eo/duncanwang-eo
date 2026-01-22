@@ -28,6 +28,6 @@ Conference Papers
 Working Papers
 ======
 
-**Rusi Wang**, Chi Xie\*. Linear programming formulation for dynamic user equilibrium based on Nesterov's stable dynamics.
+**Rusi Wang**, Chi Xie\*. Linear programming formulation for dynamic user equilibrium based on Nesterov's stable dynamics. **To be submitted**.
 
 </div>
