@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<div style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
+<div lang="en" style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
 
 Education
 ======
@@ -29,11 +29,9 @@ Education
     margin-left: 3px;
     margin-right: 0px;
   }
-
   details > summary:hover .expand-icon {
     color: #333;
   }
-
   details[open] .expand-icon::before {
     content: "[-]";
   }
