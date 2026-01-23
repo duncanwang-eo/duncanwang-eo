@@ -15,7 +15,6 @@ Education
 * 2021.09 – 2024.05, M.Sc.(Eng.) in Vehicle Operation Engineering, Institute of Rail Transit, Tongji University, Shanghai, China
 
 <style>
-  /* 隐藏默认的三角 */
   details > summary {
     list-style: none;
     cursor: pointer;
@@ -23,29 +22,22 @@ Education
   details > summary::-webkit-details-marker {
     display: none;
   }
-  
-  /* 自定义三角图标样式 */
   .expand-icon {
-    color: #999; /* 灰色 */
-    margin-left: 5px; /* 左侧间距稍微大一点 */
+    color: #999;
+    margin-left: 5px;
     margin-right: 0px;
-    font-size: 0.8em; /* 图标稍微小一点，显得精致 */
-    display: inline-block; /* 允许旋转动画(可选，这里暂时没加动画) */
+    font-size: 0.8em;
+    display: inline-block;
+    transition: transform 0.2s ease;
   }
-  
-  /* 鼠标悬停时变深色 */
   details > summary:hover .expand-icon {
     color: #333;
   }
-
-  /* 展开状态 - 显示向下三角 ▼ */
-  details[open] .expand-icon::before {
-    content: "▼";
-  }
-  
-  /* 收起状态 - 显示向右三角 ► */
-  details:not([open]) .expand-icon::before {
+  .expand-icon::before {
     content: "►";
+  }
+  details[open] .expand-icon {
+    transform: rotate(90deg);
   }
 </style>
 
