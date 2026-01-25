@@ -12,4 +12,4 @@ author_profile: true
   {{ news.content }}
 {% endfor %}
 
-[Back](/){: .btn .btn--inverse style="text-decoration: none; font-size: 1em;"}
+[Back](/){: .btn .btn--inverse style="text-decoration: none; font-size: 1em; font-weight: normal;"}
