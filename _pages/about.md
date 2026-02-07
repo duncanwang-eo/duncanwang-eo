@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em;">About Me</h1>
+<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">About Me</h1>
 
 <div style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
 
@@ -21,7 +21,7 @@ My Ph.D. dissertation focuses on travel demand management (TDM) in dynamic equil
 
 </div>
 
-<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em;">NEWS</h1>
+<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">NEWS</h1>
 
 {% assign sorted_news = site.news | sort: "date" | reverse %}
 {% for news in sorted_news limit:3 %}
@@ -30,7 +30,7 @@ My Ph.D. dissertation focuses on travel demand management (TDM) in dynamic equil
 
 [View all news](https://rusiwang99.github.io/news/){: .btn .btn--inverse style="text-decoration: none; font-size: 1em; font-weight: normal;"}
 
-<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 1.0em;">Visitor Map</h1>
+<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 1.0em; margin-top: 30px;">Visitor Map</h1>
 
 <div id="clustrmaps-container" style="width: 100%; margin: 0 auto;">
   <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=QBOZvq1WZgaL6W8nClbGXGfP4kuD_c5KoNYfWipqufs&cl=ffffff&w=a&t=tt&co=B3DDED&cmo=ffffff&cmn=ff5500"></script>
