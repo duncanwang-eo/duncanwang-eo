@@ -30,4 +30,4 @@ My Ph.D. dissertation focuses on travel demand management (TDM) in dynamic equil
 
 # Visitor Map
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QBOZvq1WZgaL6W8nClbGXGfP4kuD_c5KoNYfWipqufs&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=QBOZvq1WZgaL6W8nClbGXGfP4kuD_c5KoNYfWipqufs&co=d8e4ed&cmo=cad8d4&cmn=f9841c'></script>
