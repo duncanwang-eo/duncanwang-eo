@@ -9,7 +9,7 @@ author_profile: true
 
 <div lang="en" style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
 
-<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 1em;">Education</h1>
+<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em;">Education</h1>
 
 * 2024.09 – present, Ph.D. Candidate in Urban Mobility, College of Transportation, Tongji University, Shanghai, China (Supervisor: Prof. Chi Xie)
 * 2021.09 – 2024.05, M.Sc.(Eng.) in Vehicle Operation Engineering, Institute of Rail Transit, Tongji University, Shanghai, China
@@ -62,12 +62,12 @@ author_profile: true
 
 * 2014.09 – 2017.06, Shanghai Yan'an High School, Shanghai, China
 
-<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 1em;">Scholarships</h1>
+<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em;">Scholarships</h1>
 * 2023.12, Excellent Graduate Student Scholarship, Tongji University (¥5,000, Ranking: 2/32)
 * 2019.12, Excellent Student Scholarship, University of Electronic Science and Technology of China (¥2,000)
 * 2019.06, Scholarship Under the State Scholarship Fund (€5,250)
 
-<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 1em;">Honors and Awards</h1>
+<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em;">Honors and Awards</h1>
 * 2019.04, Honorable Mention, 2019 Interdisciplinary Contest in Modeling (Team Captain)
 * 2018.08, First Prize, 2018 Sichuan Province Undergraduate Electronics Design Contest
 
