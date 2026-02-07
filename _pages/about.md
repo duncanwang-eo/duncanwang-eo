@@ -27,3 +27,8 @@ My Ph.D. dissertation focuses on travel demand management (TDM) in dynamic equil
 {% endfor %}
 
 [View all news](https://rusiwang99.github.io/news/){: .btn .btn--inverse style="text-decoration: none; font-size: 1em; font-weight: normal;"}
+
+<div style="margin-top: 40px; text-align: center;">
+  <h3>Visitor Map</h3>
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=nkn196oYRCwjthdSUK0Toqx90wb97f-lY5-46Q2hJDg&cl=ffffff&w=a"></script>
+</div>
