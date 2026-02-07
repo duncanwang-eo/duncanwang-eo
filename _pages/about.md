@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 1em;">About Me</h1>
+
 <div style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
 
 I was born in February 1999 in Shanghai, China. I obtained my B.Eng. degree from the [University of Electronic Science and Technology of China](https://en.wikipedia.org/wiki/University_of_Electronic_Science_and_Technology_of_China){:target="_blank"} (Project 985, U.S. News Global Rank #137) in 2021 and my M.Sc.(Eng.) degree from [Tongji University](https://en.wikipedia.org/wiki/Tongji_University){:target="_blank"} (Project 985, U.S. News Global Rank #124) in 2024. I am currently a Ph.D. candidate at [Urban Mobility Institute](http://umi.tongji.edu.cn/){:target="_blank"}, Tongji University.
@@ -19,7 +21,7 @@ My Ph.D. dissertation focuses on travel demand management (TDM) in dynamic equil
 
 </div>
 
-# NEWS
+<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 1em;">NEWS</h1>
 
 {% assign sorted_news = site.news | sort: "date" | reverse %}
 {% for news in sorted_news limit:3 %}
@@ -28,10 +30,10 @@ My Ph.D. dissertation focuses on travel demand management (TDM) in dynamic equil
 
 [View all news](https://rusiwang99.github.io/news/){: .btn .btn--inverse style="text-decoration: none; font-size: 1em; font-weight: normal;"}
 
-# Visitor Map
+<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 1em;">Visitor Map</h1>
 
-<div id="clustrmaps-container" style="width: 100%; margin: 0 auto;">
-  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=QBOZvq1WZgaL6W8nClbGXGfP4kuD_c5KoNYfWipqufs&cl=ffffff&w=a&t=tt&co=B3DDED&cmo=ffffff&cmn=ff5500"></script>
+<div id="clustrmaps-container" style="width: 80%; margin: 0 auto;">
+  <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=QBOZvq1WZgaL6W8nClbGXGfP4kuD_c5KoNYfWipqufs&cl=ffffff&w=a&t=tt&co=BBE6F7&cmo=ffffff&cmn=ff5500"></script>
 </div>
 
 <script>
