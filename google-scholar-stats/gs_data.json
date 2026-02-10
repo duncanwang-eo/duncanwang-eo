@@ -20,7 +20,7 @@
   ],
   "email_domain": "@tongji.edu.cn",
   "homepage": "https://rusiwang99.github.io/",
-  "citedby": 2,
+  "citedby": 3,
   "publications": {
     "bBc5rVMAAAAJ:u-x6o8ySG0sC": {
       "container_type": "Publication",
@@ -36,6 +36,22 @@
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7755217923696085500",
       "cites_id": [
         "7755217923696085500"
+      ]
+    },
+    "bBc5rVMAAAAJ:u5HHmVD_uO8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Interior noise prediction of inter-coach space of high-speed maglev trains based on wavenumber decomposition on aerodynamic excitation",
+        "pub_year": "2024",
+        "citation": "Noise & Vibration Worldwide 55 (6-7), 304-321, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "bBc5rVMAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3964643081366237053",
+      "cites_id": [
+        "3964643081366237053"
       ]
     },
     "bBc5rVMAAAAJ:qjMakFHDy7sC": {
@@ -61,25 +77,16 @@
       "filled": false,
       "author_pub_id": "bBc5rVMAAAAJ:d1gkVwhDpl0C",
       "num_citations": 0
-    },
-    "bBc5rVMAAAAJ:u5HHmVD_uO8C": {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Interior noise prediction of inter-coach space of high-speed maglev trains based on wavenumber decomposition on aerodynamic excitation",
-        "pub_year": "2024",
-        "citation": "Noise & Vibration Worldwide 55 (6-7), 304-321, 2024"
-      },
-      "filled": false,
-      "author_pub_id": "bBc5rVMAAAAJ:u5HHmVD_uO8C",
-      "num_citations": 0
     }
   },
-  "citedby5y": 2,
+  "citedby5y": 3,
   "hindex": 1,
   "hindex5y": 1,
   "i10index": 0,
   "i10index5y": 0,
-  "cites_per_year": {},
-  "updated": "2026-02-07 12:26:20.848605"
+  "cites_per_year": {
+    "2024": 2,
+    "2025": 1
+  },
+  "updated": "2026-02-10 03:02:11.247512"
 }
