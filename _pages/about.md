@@ -171,7 +171,7 @@ redirect_from:
 
 * <details>
     <summary>
-      2021年02月 – 至今<span class="expand-icon"></span>，<strong>独立灭菌技术专家</strong>，邓肯灭菌工作室
+      2021年01月 – 至今<span class="expand-icon"></span>，<strong>独立灭菌技术专家</strong>，邓肯灭菌工作室
     </summary>
     <div class="details-content">
       <span class="section-sub-title">工作描述：</span>
@@ -207,7 +207,7 @@ redirect_from:
 
 * <details>
     <summary>
-      2021年01月 – 2021年02月<span class="expand-icon"></span>，<strong>灭菌改进项目专家</strong>，江苏省长丰医疗实业有限公司
+      2021年01月 – 至今<span class="expand-icon"></span>，<strong>灭菌改进项目专家</strong>，江苏省长丰医疗实业有限公司
     </summary>
     <div class="details-content">
       <span class="section-sub-title">工作描述：</span>
