@@ -130,7 +130,7 @@ redirect_from:
 
 <div style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
 
-我是王学荣博士，拥有超过30年的生物医药与化工行业经验，曾在多家跨国知名企业担任管理及技术职务。目前常驻中国上海，专注于行业技术咨询与管理工作。
+我是王学荣博士，具备30年医疗器械、制药行业跨国公司质量和法规管理经验和产品研发管理经验，同时具备环氧乙烷灭菌、辐照灭菌、湿热蒸汽灭菌全知识链的技术和经验。
 
 <h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">特供产品</h1>
 
