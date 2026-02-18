@@ -218,7 +218,7 @@ redirect_from:
       1993年02月 – 1997年11月<span class="expand-icon"></span>， <strong>研发主管 / 质量和法规经理</strong>， 上海莱士血液制品有限公司
     </summary>
     <div class="details-content">
-      <span class="section-sub-title">工作职责：</span>
+      <span class="section-sub-title">工作描述：</span>
       <ul>
         <li>负责新产品开发。</li>
         <li>负责建立产品的原料标准、中间体标准和成品标准。</li>
