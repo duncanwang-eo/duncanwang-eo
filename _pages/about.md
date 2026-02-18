@@ -1,20 +1,68 @@
 ---
 permalink: /
-title: "Welcome to Rusi Wang's homepage!"
+title: "欢迎访问王学荣的个人主页！"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">About Me</h1>
+<style>
+  .name-hover {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dashed #999;
+    cursor: help;
+  }
+  .name-hover .tooltip-text {
+    visibility: hidden;
+    width: 60px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -30px;
+    opacity: 0;
+    transition: opacity 0.3s;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: normal;
+  }
+  .name-hover .tooltip-text::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #333 transparent transparent transparent;
+  }
+  .name-hover:hover .tooltip-text {
+    visibility: visible;
+    opacity: 1;
+  }
+</style>
+
+<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">关于我</h1>
 
 <div style="text-align: justify; text-justify: inter-word; hyphens: auto;" markdown="1">
 
-I was born in February 1999 in Shanghai, China. I obtained my B.Eng. degree from the [University of Electronic Science and Technology of China](https://en.wikipedia.org/wiki/University_of_Electronic_Science_and_Technology_of_China){:target="_blank"} (Project 985, U.S. News Global Rank #137) in 2021 and my M.Sc.(Eng.) degree from [Tongji University](https://en.wikipedia.org/wiki/Tongji_University){:target="_blank"} (Project 985, U.S. News Global Rank #124) in 2024. I am currently a Ph.D. candidate at [Urban Mobility Institute](http://umi.tongji.edu.cn/){:target="_blank"}, Tongji University.
+我是...
 
-I have been supervised by [Professor Chi Xie](https://scholar.google.com/citations?hl=en&user=LQ3KKYQAAAAJ&view_op=list_works){:target="_blank"} at Transport and Energy Systems Laboratory (TESLA) [[📍Location](https://www.google.com/maps/place/4801+Caoan+Hwy,+Jia+Ding+Qu,+Shang+Hai+Shi,+China,+201804/@31.2810611,121.2100163,19z/data=!3m1!4b1!4m6!3m5!1s0x35b25cd3667ad407:0xa0105b5da462cc70!8m2!3d31.28106!4d121.21066!16s%2Fg%2F11r8dwp7vp?hl=en&entry=ttu&g_ep=EgoyMDI1MTAyOS4xIKXMDSoASAFQAw%3D%3D){:target="_blank"}] since August 2024, with a primary research interest in network modeling and optimization. I have completed a <em>pre-dissertation research</em> on subsidy reallocation in containerized freight transportation networks.
+<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">工作经历</h1>
 
-My Ph.D. dissertation focuses on travel demand management (TDM) in dynamic equilibrium traffic networks. A key contribution of my work is the development of an analytical dynamic traffic assignment (DTA) model that is computationally tractable for large-scale networks and accommodates multimodal transportation (e.g., solo driving, e-hailing, carpooling, public transit, and combined modes). Based on this equilibrium model, I analyze and solve a class of TDM strategy (e.g., congestion pricing, tradable mobility credit, and booking cum rationing) optimization problems with specific mathematical structures.
+* 2024年9月–至今，同济大学，交通学院，城市交通专业，攻读工学博士学位（导师：谢驰教授）
+* 2021年9月–2024年5月，同济大学，铁道与城市轨道交通研究院，载运工具运用工程专业，工学硕士学位
+* 2017年9月–2021年7月，电子科技大学，信息与通信工程学院，物联网工程专业（[壹系壹班](https://mp.weixin.qq.com/s/ew-8znWxv4uh3Q9MWJyc2A){:target="_blank"}），工学学士学位
+* 2019年9月–2020年2月, 巴黎高等电子学院，国家留学基金委优秀本科生国际交流项目，本科插班生
 
-**For collaboration inquiries, please feel free to email me directly.**
+<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">教育背景</h1>
+
+* 1985年–1990年，中国科学院上海药物研究所，有机化学专业，博士学位
+* 1980年–1985年，华东师范大学，化学专业，学士学位
