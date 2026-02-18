@@ -8,13 +8,18 @@ redirect_from:
 ---
 
 <style>
-  /* 1. 基础折叠样式 */
+  /* 基础折叠组件样式 */
+  details {
+    margin-bottom: 10px; /* 每段经历之间的间距 */
+  }
+  
   details > summary {
     list-style: none;
     cursor: pointer;
-    padding: 5px 0;
-    transition: color 0.2s;
-    font-weight: normal; /* 默认字体不加粗，重点在内部加粗 */
+    padding: 8px 5px; /* 增加一点内边距，让点击区域更大 */
+    transition: background-color 0.2s ease;
+    border-radius: 4px;
+    font-weight: normal; 
   }
   
   /* 隐藏原生的小三角 */
@@ -22,13 +27,13 @@ redirect_from:
     display: none;
   }
 
-  /* 2. 鼠标悬停时的反馈 */
+  /* 悬停时的反馈：背景变灰，提示可点击，代替文字提示 */
   details > summary:hover {
-    color: #0056b3; /* 悬停变色，提示可点击 */
-    background-color: #f8f9fa; /* 轻微背景色，增强交互感 */
+    background-color: #f0f0f0;
+    color: #0056b3;
   }
 
-  /* 3. 自定义旋转小三角 */
+  /* 自定义旋转小三角 */
   .expand-icon {
     display: inline-block;
     color: #999;
@@ -37,40 +42,37 @@ redirect_from:
     transition: transform 0.2s ease;
   }
   .expand-icon::before {
-    content: "►";
+    content: "►"; /* 实心小三角 */
   }
   details[open] .expand-icon {
-    transform: rotate(90deg);
+    transform: rotate(90deg); /* 展开时旋转 */
   }
 
-  /* 4. 引导点击的提示文字（右侧淡灰色小字） */
-  .click-hint {
-    float: right;
-    font-size: 0.8em;
-    color: #aaa;
-    font-weight: normal;
-    margin-right: 5px;
-  }
-  details[open] .click-hint {
-    display: none; /* 展开后隐藏提示 */
-  }
-
-  /* 5. 展开后的详情框样式 */
+  /* 展开后的详情框样式 */
   .details-content {
     margin-top: 5px; 
     margin-bottom: 15px;
-    padding: 15px; 
-    background-color: #f9f9f9; 
+    padding: 15px 20px; /* 内边距 */
+    background-color: #f9f9f9; /* 浅灰背景 */
     border-left: 3px solid #0056b3; /* 左侧蓝线强调 */
     font-size: 0.95em;
     line-height: 1.6;
-    text-align: justify; /* 确保内部内容也是两端对齐 */
+    text-align: justify; 
   }
 
-  /* 6. 详情框内的列表样式优化 */
+  /* 详情框内的标题（工作描述/主要业绩） */
+  .section-sub-title {
+    font-weight: bold;
+    color: #333;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    display: block;
+  }
+
+  /* 列表样式优化：去除默认的原点，改用文字排版或微调 */
   .details-content ul {
     margin: 0;
-    padding-left: 20px;
+    padding-left: 20px; /* 列表缩进 */
   }
   .details-content li {
     margin-bottom: 5px;
@@ -87,14 +89,35 @@ redirect_from:
     <summary>
       <span class="expand-icon"></span>
       2021年02月 – 至今， <strong>独立灭菌技术专家</strong>， 邓肯灭菌工作室
-      <span class="click-hint">(点击查看业绩)</span>
     </summary>
     <div class="details-content">
-      主要负责环氧乙烷灭菌过程的开发、验证与确认，以及灭菌过程的改善与增效服务。
+      <span class="section-sub-title">工作描述：</span>
       <ul>
-        <li><strong>技术开发与验证</strong>：负责新型环保+安全环氧乙烷灭菌过程的开发、验证和确认。</li>
-        <li><strong>咨询与审核</strong>：提供灭菌过程专项审核、灭菌设备等同性证明、废气处理方案及安全数据咨询。</li>
-        <li><strong>培训与指导</strong>：提供灭菌技术高级进阶培训，编写与审核灭菌过程控制文件及验证方案。</li>
+        <li>新型环保+安全环氧乙烷灭菌灭菌过程的开发、验证和确认；</li>
+        <li>现有环氧乙烷灭菌过程的改善、增效服务；</li>
+        <li>环氧乙烷灭菌过程的专项审核服务；</li>
+        <li>环氧乙烷灭菌过程的PCD的设计和定制服务；</li>
+        <li>环氧乙烷灭菌产品的包装、灭菌装载的设计制服务；</li>
+        <li>灭菌设备等同性的证明的咨询和服务；</li>
+        <li>环氧乙烷灭菌气体的安全数据、理化特性、燃爆特性的咨询和服务；</li>
+        <li>环氧乙烷灭菌过程的废气处理的咨询和服务；</li>
+        <li>环氧乙烷灭菌过程的废气处理专用设备的设计、制作监理和安装服务；</li>
+        <li>环氧乙烷灭菌、辐照灭菌、湿热蒸汽灭菌的的咨询和服务；</li>
+        <li>环氧乙烷浓度的监测咨询和服务；</li>
+        <li>环氧乙烷浓度探头的计量校正咨询和服务；</li>
+        <li>日常灭菌过程定期参数专项审核服务；</li>
+        <li>灭菌服务商的第二方审核代理服务，不符合事项的跟踪和解决；</li>
+        <li>环氧乙烷灭菌、辐照灭菌、湿热蒸汽灭菌的重要外审前的预审服务；</li>
+        <li>环氧乙烷灭菌、辐照灭菌、湿热蒸汽灭菌的过程的合格的调查处理和疑难问题的解决服务；</li>
+        <li>无菌产品生产相关的微生物控制的咨询和服务；</li>
+        <li>灭菌相关的产品生物负载量的、B&F 适宜性测试和产品无菌测试的验证；</li>
+        <li>无菌产品生产相关的微生物控制和测试的专项审核服务服务；</li>
+        <li>灭菌过程控制文件的编写和审核服务；</li>
+        <li>灭菌过程验证方案和报告的编写和审核审核服务；</li>
+        <li>灭菌相关的产品生物负载量的、B&F 适宜性测试和产品无菌测试的验证方案和报告的审核服务；</li>
+        <li>环氧乙烷灭菌过程的安全、环保和职业健康的咨询和服；</li>
+        <li>灭菌技术方面的高级進階培训服务；</li>
+        <li>产品注册资料中灭菌部分内容的编制和审核服务。</li>
       </ul>
     </div>
   </details>
@@ -103,12 +126,12 @@ redirect_from:
     <summary>
       <span class="expand-icon"></span>
       2021年01月 – 2021年02月， <strong>灭菌改进项目专家</strong>， 江苏省长丰医疗实业有限公司
-      <span class="click-hint">(点击查看业绩)</span>
     </summary>
     <div class="details-content">
+      <span class="section-sub-title">工作描述：</span>
       <ul>
-        <li>负责新型环保+安全环氧乙烷灭菌过程的开发、验证和确认。</li>
-        <li>主导环氧乙烷灭菌过程废气处理专用设备的立项、设计与监理。</li>
+        <li>新型环保+安全环氧乙烷灭菌灭菌过程的开发、验证和确认；</li>
+        <li>环氧乙烷灭菌过程的废气处理专用设备的立项、设计、监理。</li>
       </ul>
     </div>
   </details>
@@ -117,13 +140,27 @@ redirect_from:
     <summary>
       <span class="expand-icon"></span>
       2017年07月 – 2020年12月， <strong>资深灭菌专家</strong>， 碧迪快速诊断产品（苏州）有限公司
-      <span class="click-hint">(点击查看业绩)</span>
     </summary>
     <div class="details-content">
+      <span class="section-sub-title">工作描述：</span>
       <ul>
-        <li><strong>工艺创新</strong>：建立了高效、低环氧乙烷残留的专用灭菌工艺；建立了灭菌装载升温曲线的数学模型，精准预测最冷点及升温时间。</li>
-        <li><strong>验证与放行</strong>：验证了HYPAK产品的灭菌过程，并建立了基于灭菌参数放行的量化指标系统。</li>
-        <li><strong>质量控制</strong>：建立了整套产品污染控制计划（包括洁净区监控、初始污染菌监控等），并组建了一支专业的无菌保证团队。</li>
+        <li>负责Hypak产品无菌保证工作，以达到在质量，法规，成本和效益方面的综合绩效目标。</li>
+        <li>建立灭菌和生产环境控制和监测的操作程序，监督操作程序被严格执行，阶段性评估总结以提高灭菌和无菌保证工作的有效性。</li>
+        <li>制定灭菌验证计划，按计划起草验证方案并执行，包括灭菌过程的验证及再验证。</li>
+        <li>编制灭菌产品的标准化批记录文件，确保所有的生产控制要素得到精准和适当的记录，满足产品的追溯性的要求。</li>
+        <li>管控灭菌和微生物服务供应商的验证执行，管理灭菌供应商及外包供应商相关的质量保证活动，包括技术协议，审核，偏离调查与处理，投诉，BD客户访问等。</li>
+        <li>向团队同事提供有关灭菌技术方面的高级進階专业培训。</li>
+        <li>定期联络碧迪亚太和碧迪全球灭菌团队，确保灭菌和微生物相关控制事宜与其保持一致和协调，与此同时，更要保证相关事项符合国内的法律法规要求负责。</li>
+        <li>定期的汇总分析灭菌和污染控制的相关数据，参与管理评审。</li>
+        <li>管理与灭菌相关的CAPA活动。</li>
+      </ul>
+      <span class="section-sub-title">主要业绩：</span>
+      <ul>
+        <li>建立了高效、低环氧乙烷残留低的环氧乙烷专用灭菌工艺；</li>
+        <li>验证了HYPAK产品环氧乙烷灭菌过程，建立了灭菌参数放行的量化指针系统；</li>
+        <li>建立了灭菌装载升温曲线的数学模型，预测灭菌装载的最冷点、计算达到最低灭菌温度的时间；</li>
+        <li>建立整套产品污染控制计划和实施方案（包括 洁净区的人员进出要求、环境污染监控点， 初始污染菌监控，微生物实验室的各种检测方法）；</li>
+        <li>组建、培训了一支有能力的灭菌和微生物污染控制的无菌保证团队。</li>
       </ul>
     </div>
   </details>
@@ -131,15 +168,45 @@ redirect_from:
 * <details>
     <summary>
       <span class="expand-icon"></span>
-      1997年11月 – 2016年09月， <strong>生产与质量管理经理</strong>， 金宝医疗器材上海（有限）公司
-      <span class="click-hint">(点击查看业绩)</span>
+      1997年11月 – 2016年10月， <strong>质量和法规经理 / 研发经理</strong>， 金宝医疗器材（上海）有限公司
     </summary>
     <div class="details-content">
-      在职18年期间，全面负责质量体系建立、产品注册及生产工艺验证。
+      <span class="section-sub-title">工作描述：</span>
       <ul>
-        <li><strong>体系建设</strong>：主导质量体系（ISO/GMP）及环境管理体系的建立与认证。</li>
-        <li><strong>灭菌开发</strong>：负责环氧乙烷、蒸汽、辐照三种灭菌过程的开发与验证。</li>
-        <li><strong>风险与合规</strong>：负责产品的风险分析、供应商审核、材料生物相容性评估及医疗器械产品的首次注册。</li>
+        <li>负责质量体系管理并持续改善；</li>
+        <li>负责客户投诉管理，并持续改善客户满意度；</li>
+        <li>负责协调CAPA项目，持续改善质量成本；</li>
+        <li>设定部门目标，监控部门表现，设立部门培训需求和督导团队成员；</li>
+        <li>管理检验，试验室测试（化学、生物、物理）；</li>
+        <li>管理产品验证和过程工艺验证；</li>
+        <li>负责产品和过程的本地化；</li>
+        <li>管理产品的灭菌验证和日常的监控（包括环氧乙烷灭菌、蒸汽灭菌和电子束灭菌）；</li>
+        <li>生产质量管理 --- 日常生产质量管理、生产和产品放行；</li>
+        <li>负责为采购部门提供和材料采购的技术标准和文件；</li>
+        <li>日常质量报告 --- 设立年度质量KPI指标并对月度KPI报告进行评审；</li>
+        <li>管理团队--- 考核目标设定及绩效评估；招聘面试；财务预算及控制等；</li>
+        <li>负责医疗器械产品的注册工作；</li>
+        <li>负责为市场部（销售公司，分销商）参与国内外市场招标提供相关的标准质量文件包；</li>
+        <li>负责评审关键材料和灭菌过程的供应商。</li>
+      </ul>
+      <span class="section-sub-title">主要业绩：</span>
+      <ul>
+        <li>参与启动团队将Gambro日本知贺工厂生产线迁移至上海，建立了上海质量团队和设施；</li>
+        <li>建立了ISO13485质量体系并获得认证；</li>
+        <li>1999年取得产品CE注册认证，产品开始独立进入欧洲市场；</li>
+        <li>建立了ISO14001环境管理体系并获得认证；</li>
+        <li>建立并推行Kaizen/CAPA/PDCA 不断改进质量成本；</li>
+        <li>取得在1998年取得血路管（三类）产品在中国的首次注册证书；</li>
+        <li>完成了PVC 材料的国产化任务和灭菌工艺本地化，使得产品成本下降40%；</li>
+        <li>完成了耐辐照PVC 材料的国产化任务，为引入电子束灭菌方法扫清了障碍；</li>
+        <li>改善环氧乙烷的灭菌参数，提高了灭菌效率15%，节省了灭菌费用；</li>
+        <li>建立了注塑、挤压，灭菌,无菌包装等关键过程的验证模版文件；</li>
+        <li>按照ISO 10993.1建立了所有血液接触材料的评估文件模版；</li>
+        <li>建立了泄漏测试仪系统灵敏度和准确度的监视方法；</li>
+        <li>建立了产品无菌包装无菌有效期的评估方法；</li>
+        <li>负责评估关键供应商的产品：输液器具、无菌空气传感器、废液收集袋、塑料穿刺针、无菌包装材料；负责评估关键过程：四家环氧乙烷灭菌供应商，三家电子束灭菌供应商等。对供应商的审核所用的标准包括ISO 13485(QMS); 21CFR 820 (cGMP); ISO 11135 (环氧乙烷灭菌) 和 ISO 11607(灭菌包装材料)等，审核不仅仅包括质量体系的审核，还包括产品的关键生产和测试过程；</li>
+        <li>负责产品设计更改的风险评估和管控，配合采购部门的节约成本项目；</li>
+        <li>汇编CE技术文档：完成有关技术文档汇编更新及各类技术工作。</li>
       </ul>
     </div>
   </details>
@@ -147,14 +214,28 @@ redirect_from:
 * <details>
     <summary>
       <span class="expand-icon"></span>
-      1993年03月 – 1997年11月， <strong>质量和法规经理</strong>， 上海莱士血液制品有限公司
-      <span class="click-hint">(点击查看业绩)</span>
+      1993年02月 – 1997年11月， <strong>研发主管 / 质量和法规经理</strong>， 上海莱士血液制品有限公司
     </summary>
     <div class="details-content">
+      <span class="section-sub-title">工作职责：</span>
       <ul>
-        <li><strong>GMP认证</strong>：按照cGMP要求建立了血液制品生产的质量管理体系，并成功通过SFDA认证。</li>
-        <li><strong>技术攻关</strong>：对人血丙种球蛋白、第八因子等4个关键产品的工艺研发与确认做出关键贡献；建立了病毒灭活可靠性验证体系。</li>
-        <li><strong>风险控制</strong>：建立了全流程风险管理体系，实现产品关键质量项目零投诉。</li>
+        <li>负责新产品开发；</li>
+        <li>负责建立产品的原料标准、中间体标准和成品标准；</li>
+        <li>质量管理体系建立与认证和持续的改进；</li>
+        <li>负责产品工艺文件的监督实施；</li>
+        <li>负责血液制品的风险管理和控制活动, 病毒灭活工艺的可靠性验证；</li>
+        <li>负责血液制品新的产品注册文件的匯總編制；</li>
+        <li>负责血液制品产品售后监督；</li>
+        <li>质量保证部团队建设：人员规划、招聘、培训、考核等；</li>
+        <li>负责产品注册工作与SFDA药监部门联络沟通。</li>
+      </ul>
+      <span class="section-sub-title">主要业绩：</span>
+      <ul>
+        <li>按照cGMP要求建立了血液制品生产的质量管理体系并且得到SFDA的认证；</li>
+        <li>建立了血液制品的风险管理控制体系。在产品的生产的各个环节、产品设计变更的节实施风险管理使得产品关键质量项目实现零投诉；</li>
+        <li>对4个血液制品（人血丙种球蛋白、人血酶原复合物，人血第八因子，人血纤维蛋白原）的工艺研发、工艺确认给予了关键性的贡献；</li>
+        <li>建立了病毒灭活可靠性验证体系；</li>
+        <li>建立了原材料生产商的评估体系。</li>
       </ul>
     </div>
   </details>
@@ -162,18 +243,36 @@ redirect_from:
 * <details>
     <summary>
       <span class="expand-icon"></span>
-      1991年09月 – 1993年02月， <strong>研发部主管</strong>， 杜邦农化（上海）有限公司
-      <span class="click-hint">(点击查看业绩)</span>
+      1991年09月 – 1993年02月， <strong>研发部主管</strong>， 杜邦农化上海有限公司
     </summary>
     <div class="details-content">
+      <span class="section-sub-title">工作描述：</span>
       <ul>
-        <li>与美国杜邦总部（Experiment Station）技术合作，全面引进Londax过程控制技术。</li>
-        <li>建立了农得时（Londax）产品的质量分析与控制方法，并负责其复合制剂的本地化开发。</li>
+        <li>参与农得时项目，跟美国杜邦公司 Experiment Station 的技术人员合作，全面引进Londax 的过程控制技术；</li>
+        <li>建立10%農得時可濕性粉劑的質量分析和控制方法；</li>
+        <li>负责农得时复合制剂的本地化开发。</li>
       </ul>
     </div>
   </details>
 
-* 1990年09月 – 1991年09月， <strong>助理研究员</strong>， 中国科学院上海昆虫研究所
+* <details>
+    <summary>
+      <span class="expand-icon"></span>
+      1990年09月 – 1991年09月， <strong>生态化学实验室主管</strong>， 中国科学院上海昆虫研究所
+    </summary>
+    <div class="details-content">
+      <span class="section-sub-title">工作描述：</span>
+      <ul>
+        <li>负责昆虫信息的合成和应用研究；</li>
+        <li>负责化学实验室的管理；</li>
+        <li>开发和设计新型的昆虫诱捕器。</li>
+      </ul>
+      <span class="section-sub-title">主要业绩：</span>
+      <ul>
+        <li>合成了杨树透翅蛾的信息素，在葡萄种植园中成功捕获到了目标害虫。</li>
+      </ul>
+    </div>
+  </details>
 
 <h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">教育背景</h1>
 
