@@ -5,9 +5,6 @@ author_profile: true
 ---
 
 <style>
-  /* ====================
-     1. Product Showcase Styles (Resized)
-     ==================== */
   .product-item {
     display: flex; 
     align-items: center; 
@@ -23,7 +20,6 @@ author_profile: true
     box-shadow: 0 4px 12px rgba(0,0,0,0.08); 
   }
 
-  /* Left Image Container */
   .product-img-box {
     flex: 0 0 170px; 
     margin-right: 25px; 
@@ -42,7 +38,6 @@ author_profile: true
     margin: 0; 
   }
 
-  /* Right Text Container */
   .product-info {
     flex: 1; 
     font-size: 0.95em;
@@ -70,9 +65,6 @@ author_profile: true
     display: block;
   }
 
-  /* ====================
-     2. Interaction and Fold Styles
-     ==================== */
   details > summary {
     list-style: none;
     cursor: pointer;
@@ -162,6 +154,16 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
   </div>
 </div>
 
+<div class="product-item">
+  <div class="product-img-box">
+    <img src="https://via.placeholder.com/600x450/e0e0e0/888888?text=Product+4" alt="Waste Gas Treatment Equipment">
+  </div>
+  <div class="product-info">
+    <span class="product-name">Waste Gas Treatment Equipment</span>
+    <span class="product-spec">Spec: Customized on demand</span>
+    <span class="product-desc">Product Description:</span>
+  </div>
+</div>
 
 <h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">💼 Professional Experience</h1>
 
