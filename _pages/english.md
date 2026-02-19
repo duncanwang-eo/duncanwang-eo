@@ -9,10 +9,10 @@ author_profile: true
      1. Product Showcase Styles (Resized)
      ==================== */
   .product-item {
-    display: flex; /* Flex layout for left-image right-text */
-    align-items: center; /* Vertically align center */
-    margin-bottom: 20px; /* Spacing between items */
-    padding: 15px; /* Padding */
+    display: flex; 
+    align-items: center; 
+    margin-bottom: 20px; 
+    padding: 15px; 
     border: 1px solid #f0f0f0; 
     border-radius: 6px; 
     background-color: #fff;
@@ -20,25 +20,24 @@ author_profile: true
   }
   
   .product-item:hover {
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08); /* Darker shadow on hover */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08); 
   }
 
-  /* Left Image Container - Width increased from 120px to 170px (+40%) */
+  /* Left Image Container */
   .product-img-box {
     flex: 0 0 170px; 
-    margin-right: 25px; /* Increased spacing */
+    margin-right: 25px; 
     border-radius: 4px;
     overflow: hidden;
     border: 1px solid #eee;
     background-color: #f9f9f9;
   }
 
-  /* Image styling */
   .product-img-box img {
     display: block;
     width: 100%;
     height: auto;
-    aspect-ratio: 4 / 3; /* Lock 4:3 aspect ratio */
+    aspect-ratio: 4 / 3; 
     object-fit: cover; 
     margin: 0; 
   }
@@ -52,7 +51,7 @@ author_profile: true
 
   .product-name {
     font-weight: bold;
-    font-size: 1.2em; /* Slightly larger title */
+    font-size: 1.2em; 
     color: #333;
     display: block;
     margin-bottom: 6px;
@@ -61,7 +60,7 @@ author_profile: true
   .product-spec {
     color: #666;
     font-size: 0.95em;
-    display: block; /* Takes up its own line */
+    display: block; 
     margin-bottom: 6px;
   }
 
@@ -69,11 +68,10 @@ author_profile: true
     color: #444;
     font-size: 0.95em;
     display: block;
-    /* Placeholder for specific description styles */
   }
 
   /* ====================
-     2. Interaction and Fold Styles (Unchanged)
+     2. Interaction and Fold Styles
      ==================== */
   details > summary {
     list-style: none;
@@ -172,33 +170,23 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
       Feb 2021 – Present<span class="expand-icon"></span>, <strong>Part-time Sterilization Expert</strong>, Duncan Sterilization Studio
     </summary>
     <div class="details-content">
-      <span class="section-sub-title">Job Description:</span>
+      <span class="section-sub-title">Responsibility:</span>
       <ul>
-        <li>Development, validation, and confirmation of novel eco-friendly and safe Ethylene Oxide (EO) sterilization processes.</li>
-        <li>Improvement and efficiency enhancement services for existing EO sterilization processes.</li>
-        <li>Specialized audit services for EO sterilization processes.</li>
-        <li>Design and customization services for Process Challenge Devices (PCD) for EO sterilization.</li>
-        <li>Design services for packaging and sterilization load configurations for EO sterilized products.</li>
-        <li>Consultation and services for proving sterilization equipment equivalence.</li>
-        <li>Consultation and services regarding safety data, physicochemical properties, and flammability/explosion characteristics of EO sterilization gas.</li>
-        <li>Consultation and services for waste gas treatment in EO sterilization processes.</li>
-        <li>Design, manufacturing supervision, and installation services for dedicated waste gas treatment equipment for EO sterilization.</li>
-        <li>Consultation and services for EO sterilization, irradiation sterilization, and moist heat steam sterilization.</li>
-        <li>Consultation and services for EO concentration monitoring.</li>
-        <li>Consultation and services for calibration of EO concentration probes.</li>
-        <li>Routine periodic parameter audit services for sterilization processes.</li>
-        <li>Second-party audit agency services for sterilization service providers, including tracking and resolution of non-conformities.</li>
-        <li>Pre-audit services prior to important external audits for EO, irradiation, and moist heat steam sterilization.</li>
-        <li>Investigation and resolution services for process deviations and complex issues in EO, irradiation, and moist heat steam sterilization.</li>
-        <li>Consultation and services for microbiological control in sterile product manufacturing.</li>
-        <li>Validation of product bioburden, Bacteriostasis & Fungistasis (B&F) suitability testing, and product sterility testing related to sterilization.</li>
-        <li>Specialized audit services for microbiological control and testing in sterile product manufacturing.</li>
-        <li>Drafting and review services for sterilization process control documents.</li>
-        <li>Drafting and review services for sterilization process validation protocols and reports.</li>
-        <li>Review services for protocols and reports regarding product bioburden, B&F suitability testing, and product sterility testing.</li>
-        <li>Consultation and services for safety, environmental protection, and occupational health in EO sterilization processes.</li>
-        <li>Advanced training services in sterilization technology.</li>
-        <li>Preparation and review services for sterilization-related content in product registration dossiers.</li>
+        <li>Conduct or support the validation activities on industrial sterilization (EO, radiation and moist heat).</li>
+        <li>Conduct or support the validation on EO/ECH residual test method validation.</li>
+        <li>Conduct sterilization technology transfer to fit for local implementation.</li>
+        <li>Review the sterilization documentation against applicable standards.</li>
+        <li>Perform periodic auditing of routine sterilization batch records.</li>
+        <li>Provide consultant opinion and approach or protocol on hot topics of EO sterilization (such as product adoption assessment, process equivalence evaluation, definition of processing group, definition of product family).</li>
+        <li>Investigation on root cause on anomalies in routine sterilization.</li>
+        <li>IPCD design and preparation.</li>
+        <li>Drafting of documents on sterilization quality system.</li>
+        <li>Perform auditing to sterilization subcontractor on behalf of customers or employers.</li>
+      </ul>
+      <span class="section-sub-title">Achievements:</span>
+      <ul>
+        <li>Innovated a method to identify the most difficult points for EO sterilization in medical device products. This has made it possible to define a just-over-kill sterilization cycle.</li>
+        <li>The method of design of conventional sterilization process challenge device (PCD) was developed and established. By the rules a series of PCDs with gradually increasing resistance to sterilization is able to be assembled and quantized on its resistance. The most important thing is the PCD construction unit is reusable.</li>
       </ul>
     </div>
   </details>
@@ -221,23 +209,24 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
       Jul 2017 – Dec 2020<span class="expand-icon"></span>, <strong>Senior Sterilization Lead</strong>, BD Rapid Diagnostic products (Suzhou) Co., Ltd.
     </summary>
     <div class="details-content">
-      <span class="section-sub-title">Job Description:</span>
+      <span class="section-sub-title">Responsibility:</span>
       <ul>
-        <li>Responsible for sterility assurance of Hypak products to achieve comprehensive performance goals in quality, regulations, cost, and efficiency.</li>
-        <li>Established operating procedures for sterilization and production environment control and monitoring; supervised strict execution of procedures; conducted periodic assessments to improve the effectiveness of sterilization and sterility assurance.</li>
-        <li>Formulated sterilization validation plans; drafted and executed validation protocols according to the plan, including validation and re-validation of sterilization processes.</li>
-        <li>Compiled standardized batch records for sterilized products to ensure all production control elements were accurately and appropriately recorded, meeting product traceability requirements.</li>
-        <li>Managed validation execution of sterilization and microbiology service suppliers; managed quality assurance activities related to sterilization suppliers and outsourcing suppliers, including technical agreements, audits, deviation investigation and handling, complaints, and BD customer visits.</li>
-        <li>Provided advanced professional training on sterilization technology to team colleagues.</li>
-        <li>Regularly communicated with BD Asia Pacific and BD Global Sterilization Teams to ensure consistency and coordination in sterilization and microbiology-related control matters, while ensuring compliance with domestic laws and regulations.</li>
-        <li>Regularly aggregated and analyzed data related to sterilization and contamination control; participated in management reviews.</li>
-        <li>Managed CAPA activities related to sterilization.</li>
+        <li>Responsible for Hypak product sterility assurance to achieve comprehensive performance targets in terms of quality, regulation, cost and efficiency.</li>
+        <li>Establish the operating procedures for sterilization and production environment control and monitoring, supervise that the operating procedures are strictly implemented, and periodically evaluate and summarize to improve the effectiveness of sterilization and sterility assurance.</li>
+        <li>Make sterilization validation plan, draft validation protocol and implement it as planned, including validation and re-validation of sterilization process.</li>
+        <li>Lead the sterilization team in daily work, microbiology laboratory and sterility test management.</li>
+        <li>Prepare standardized batch records and forms of sterilized products to ensure that all production control elements are accurately and appropriately recorded to meet the requirements of product traceability.</li>
+        <li>Control the validation of sterilization and microbial service providers, manage the quality assurance activities related to sterilization suppliers and outsourcing suppliers, including technical agreements, audits, deviation investigation and handling, complaints, BD customer visits, etc.</li>
+        <li>Provide advanced professional training on sterilization technology to colleagues.</li>
+        <li>Liaise regularly with global sterilization team to ensure consistency and coordination of sterilization and microbial related control matters, and at the same time to ensure that relevant matters comply with NMPA regulations.</li>
+        <li>Regularly summarize and analyze sterilization and pollution control data for management review.</li>
+        <li>Lead CAPA activities related to sterilization.</li>
       </ul>
-      <span class="section-sub-title">Key Achievements:</span>
+      <span class="section-sub-title">Achievements:</span>
       <ul>
+        <li>The mathematical model on temperature rising profile of sterilization load was developed and established. It can be used for predicting (by calculation or plotting) the time required for the sterilization load to reach any specified starting temperature. By doing so it has greatly reduced cost of validation.</li>
         <li>Established a high-efficiency EO sterilization process with low EO residuals.</li>
         <li>Validated the EO sterilization process for HYPAK products and established a quantitative indicator system for parametric release based on sterilization parameters.</li>
-        <li>Established a mathematical model for the sterilization load heating curve to predict the "cold spot" of the load and calculate the time to reach minimum sterilization temperature.</li>
         <li>Established a complete product contamination control plan and implementation scheme (including personnel entry/exit requirements for clean areas, environmental contamination monitoring points, initial bioburden monitoring, and various detection methods in the microbiology laboratory).</li>
         <li>Built and trained a capable sterility assurance team for sterilization and microbiological contamination control.</li>
       </ul>
@@ -246,45 +235,43 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
 
 * <details>
     <summary>
-      Nov 1997 – Oct 2016<span class="expand-icon"></span>, <strong>QRM</strong>, Gambro Medical products  (Shanghai) Co.,Ltd.
+      Nov 1997 – Oct 2016<span class="expand-icon"></span>, <strong>QRM</strong>, Gambro Medical products (Shanghai) Co.,Ltd.
     </summary>
     <div class="details-content">
-      <span class="section-sub-title">Job Description:</span>
+      <span class="section-sub-title">Responsibility:</span>
       <ul>
-        <li>Responsible for quality system management and continuous improvement.</li>
-        <li>Responsible for customer complaint management and continuous improvement of customer satisfaction.</li>
-        <li>Responsible for coordinating CAPA projects and continuously improving quality costs.</li>
-        <li>Set departmental goals, monitored departmental performance, identified departmental training needs, and supervised team members.</li>
-        <li>Managed inspections and laboratory testing (chemical, biological, physical).</li>
-        <li>Managed product validation and process validation.</li>
-        <li>Responsible for localization of products and processes.</li>
-        <li>Managed sterilization validation and routine monitoring of products (including EO sterilization, steam sterilization, and E-beam sterilization).</li>
-        <li>Production Quality Management: Routine production quality management, production and product release.</li>
-        <li>Responsible for providing technical standards and documents for material procurement to the purchasing department.</li>
-        <li>Routine Quality Reporting: Established annual quality KPI indicators and reviewed monthly KPI reports.</li>
-        <li>Team Management: Performance goal setting and assessment; recruitment and interviewing; financial budgeting and control, etc.</li>
-        <li>Responsible for medical device product registration.</li>
-        <li>Responsible for providing relevant standard quality documentation packages for the marketing department (sales companies, distributors) to participate in domestic and international market tenders.</li>
-        <li>Responsible for assessing suppliers of critical materials and sterilization processes.</li>
+        <li>Establish, implement and continuously improve a quality system.</li>
+        <li>Identify, lead and sponsor quality improvement projects on product quality and process quality.</li>
+        <li>Monitor/Analyze field feedback, provide effective CAPA/field action and improve the customer satisfaction.</li>
+        <li>Set up applicable quality plan/quality goal for continuous cost saving.</li>
+        <li>Drive root cause analysis and address internal & external quality problems with effective CAPA.</li>
+        <li>Setup targets of quality department and supervise the performance of quality team, identify the needs of quality training of team member.</li>
+        <li>Supervise the inspection and testing and measurement (chemical, biological and physical).</li>
+        <li>Supervise the calibration and validation activities of products and process.</li>
+        <li>Be responsible for localization and the design transfer of product.</li>
+        <li>Lead the sterilization validation activity of bloodline and routine control, included steam sterilization, ETO sterilization and radiation.</li>
+        <li>Supervise the routine production line and final release of finished products.</li>
+        <li>Quality reporting --- setup KPI quality target and implement monthly review and evaluation.</li>
+        <li>Quality team building --- target setup and performance evaluation, recruiting, budget planning and control.</li>
+        <li>Supplier/process auditing and evaluation; use scorecard system for supplier performance monitoring.</li>
+        <li>Medical device registration and continual registration.</li>
+        <li>Support bidding activity of marketing department (sales companies, distributors) with dossier.</li>
       </ul>
-      <span class="section-sub-title">Key Achievements:</span>
+      <span class="section-sub-title">Major Achievement:</span>
       <ul>
-        <li>Participated in the startup team to relocate the production line from Gambro's Chiga factory in Japan to Shanghai; established the Shanghai quality team and facilities.</li>
-        <li>Established the ISO 13485 quality system and obtained certification.</li>
-        <li>Obtained CE product registration certification in 1999, allowing products to independently enter the European market.</li>
+        <li>Participated in the move of plant from Koga, Japan to Shanghai. Built up Shanghai quality team and establishment (Chemical lab/microbiological lab).</li>
+        <li>Established the ISO13485 quality system and completed certification.</li>
+        <li>Achieved product initial CE registration certificate in 1999, open the European market.</li>
+        <li>Implemented CAPA/PDCA to continuously improve the cost of quality.</li>
+        <li>Achieved product (Class 3) initial registration certificate in 1998 at SFDA.</li>
+        <li>Completed the localization of raw materials and ETO sterilization, cost cut by 40%.</li>
+        <li>Improved the efficacy of ETO sterilization process with optimization of key parameters and reduced cycle time by 15% saving the ETO sterilization subcontract fee.</li>
+        <li>Developed and established the standard template for the validation of extrusion and injection molding, sterilization process and packaging shelf life.</li>
+        <li>Developed and established method for monitoring the accuracy and sensitivity of Cosmo leak tester.</li>
+        <li>Assessed the critical vendor and process, covering: transfusion sets, transducer protector, drainage bags, plastic needle, expansion chambers, packaging materials, 4 ETO sterilization suppliers and 3 beta radiation suppliers. The auditing was based on the requirement of the standards ISO 13485(QMS); ISO 11135 and ISO 11607, covering both production system and key production and measurement process.</li>
         <li>Established the ISO 14001 environmental management system and obtained certification.</li>
-        <li>Established and promoted Kaizen/CAPA/PDCA to continuously improve quality costs.</li>
-        <li>Obtained the first product registration certificate for blood tubing (Class III) products in China in 1998.</li>
-        <li>Completed the localization task for PVC materials and sterilization process localization, reducing product costs by 40%.</li>
-        <li>Completed the localization task for radiation-resistant PVC materials, clearing obstacles for the introduction of E-beam sterilization methods.</li>
-        <li>Improved EO sterilization parameters, increasing sterilization efficiency by 15% and saving sterilization costs.</li>
-        <li>Established validation template documents for critical processes such as injection molding, extrusion, sterilization, and sterile packaging.</li>
-        <li>Established assessment document templates for all blood-contact materials in accordance with ISO 10993.1.</li>
-        <li>Established monitoring methods for the sensitivity and accuracy of leakage tester systems.</li>
-        <li>Established assessment methods for the sterile shelf life of product sterile packaging.</li>
-        <li>Responsible for assessing products from critical suppliers (infusion sets, sterile air sensors, waste liquid collection bags, plastic puncture needles, sterile packaging materials) and critical processes (four EO sterilization suppliers, three E-beam sterilization suppliers, etc.). Audit standards included ISO 13485 (QMS), 21 CFR 820 (cGMP), ISO 11135 (EO Sterilization), and ISO 11607 (Packaging for Terminally Sterilized Medical Devices), covering both quality systems and critical production/testing processes.</li>
-        <li>Responsible for risk assessment and control of product design changes, cooperating with the purchasing department on cost-saving projects.</li>
         <li>Compiled CE Technical Files: Completed updates to relevant technical file compilations and various technical tasks.</li>
+        <li>Completed the localization task for radiation-resistant PVC materials, clearing obstacles for the introduction of E-beam sterilization methods.</li>
       </ul>
     </div>
   </details>
@@ -294,24 +281,23 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
       Feb 1993 – Nov 1997<span class="expand-icon"></span>, <strong>QRM</strong>, Shanghai RAAS Blood products Co., Ltd.
     </summary>
     <div class="details-content">
-      <span class="section-sub-title">Job Responsibilities:</span>
+      <span class="section-sub-title">Responsibilities:</span>
       <ul>
-        <li>Responsible for new product development.</li>
-        <li>Responsible for establishing standards for raw materials, intermediates, and finished products.</li>
-        <li>Establishment, certification, and continuous improvement of the quality management system.</li>
-        <li>Responsible for supervising the implementation of product process documents.</li>
-        <li>Responsible for risk management and control activities for blood products, and reliability validation of viral inactivation processes.</li>
-        <li>Responsible for the compilation and consolidation of new product registration documents for blood products.</li>
-        <li>Responsible for post-market surveillance of blood products.</li>
-        <li>Quality Assurance Team Building: Personnel planning, recruitment, training, assessment, etc.</li>
-        <li>Responsible for product registration and communication with the SFDA (State Food and Drug Administration).</li>
+        <li>Involved deeply in the development of new blood products.</li>
+        <li>Responsible for prescription of the specification for raw materials, processed materials and final products.</li>
+        <li>Establish, implement and continuously improve a quality system.</li>
+        <li>Responsible for risk management activity of blood products, responsible for validation of virus inactivation process.</li>
+        <li>Responsible for new products registration in SFDA (now called NMPA).</li>
+        <li>Responsible for market surveillance of post-marketed products.</li>
+        <li>Quality assurance team building: resource planning, recruiting, training, qualification and evaluation.</li>
+        <li>Keep liaison and contact with SFDA officials.</li>
       </ul>
-      <span class="section-sub-title">Key Achievements:</span>
+      <span class="section-sub-title">Major Achievement:</span>
       <ul>
-        <li>Established a quality management system for blood product production in accordance with cGMP requirements and obtained SFDA certification.</li>
-        <li>Established a risk management control system for blood products. Implemented risk management in all aspects of production and product design changes, achieving zero complaints for critical product quality items.</li>
-        <li>Made critical contributions to the process R&D and process confirmation of 4 blood products (Human Albumin, Prothrombin Complex, Factor VIII, Fibrinogen).</li>
-        <li>Established a reliability validation system for viral inactivation.</li>
+        <li>Established the quality system of bloodline product production according cGMP and got through SFDA certification in 1997.</li>
+        <li>Established the risk management system for blood products, implement the system in all phase of product and design change process.</li>
+        <li>Gave contribution to the development of four new products (IVIG, PCC, Factor VIII and Fibrinogen) in aspect of process scheme and by-product identification and residual analysis.</li>
+        <li>Established the validation system for the virus inactivation process.</li>
         <li>Established an assessment system for raw material manufacturers.</li>
       </ul>
     </div>
@@ -322,25 +308,24 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
       Sep 1991 – Feb 1993<span class="expand-icon"></span>, <strong>R&D Supervisor</strong>, Shanghai DuPont Agriculture products Co., Ltd.
     </summary>
     <div class="details-content">
-      <span class="section-sub-title">Job Description:</span>
+      <span class="section-sub-title">Responsibility:</span>
       <ul>
-        <li>Participated in the Londax project, collaborating with technical personnel from DuPont's Experiment Station in the USA to comprehensively introduce Londax process control technology.</li>
-        <li>Established quality analysis and control methods for 10% Londax wettable powder.</li>
-        <li>Responsible for the localization development of Londax compound formulations.</li>
+        <li>Introduction of Londax project, co-operate with Experiment Station to establish quality control methods.</li>
+        <li>Responsible for the development of local formulations Londax.</li>
       </ul>
     </div>
   </details>
 
 * <details>
     <summary>
-      Sep 1990 – Sep 1991<span class="expand-icon"></span>, <strong>Lab chief</strong>, Shanghai Institute of Entomology, Chinese Academy of Sciences
+      Sep 1990 – Sep 1991<span class="expand-icon"></span>, <strong>Lab Chief</strong>, Shanghai Institute of Entomology, Chinese Academy of Science
     </summary>
     <div class="details-content">
-      <span class="section-sub-title">Job Description:</span>
+      <span class="section-sub-title">Responsibility:</span>
       <ul>
-        <li>Responsible for the synthesis and application research of insect pheromones.</li>
-        <li>Responsible for the management of the chemistry laboratory.</li>
-        <li>Developed and designed novel insect traps.</li>
+        <li>Responsible for chemical synthesis of hormon of insects and the field application study.</li>
+        <li>Management of chemical lab.</li>
+        <li>Develop and design the insect trap.</li>
       </ul>
       <span class="section-sub-title">Key Achievements:</span>
       <ul>
