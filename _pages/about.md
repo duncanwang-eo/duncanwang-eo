@@ -131,7 +131,8 @@ redirect_from:
   <div class="product-info">
     <span class="product-name">环氧乙烷工作标准品 (EO)</span>
     <span class="product-spec">规格：10 mg/mL</span>
-    <span class="product-desc">产品描述：</span> </div>
+    <span class="product-desc">产品描述：</span> 
+  </div>
 </div>
 
 <div class="product-item">
@@ -156,6 +157,16 @@ redirect_from:
   </div>
 </div>
 
+<div class="product-item">
+  <div class="product-img-box">
+    <img src="https://via.placeholder.com/600x450/e0e0e0/888888?text=Product+4" alt="废气处理装置">
+  </div>
+  <div class="product-info">
+    <span class="product-name">废气处理装置</span>
+    <span class="product-spec">规格：按需定制</span>
+    <span class="product-desc">产品描述：</span>
+  </div>
+</div>
 
 <h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">💼 工作经历</h1>
 
