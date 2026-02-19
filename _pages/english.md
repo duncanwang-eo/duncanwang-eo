@@ -127,7 +127,7 @@ author_profile: true
 
 I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in quality and regulatory management as well as product R&D management within multinational corporations in the medical device and pharmaceutical industries. I possess comprehensive technical knowledge and experience across the full spectrum of Ethylene Oxide (EO) sterilization, irradiation sterilization, and moist heat steam sterilization.
 
-<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Featured Products</h1>
+<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">🧪 Featured Products</h1>
 
 <div class="product-item">
   <div class="product-img-box">
@@ -163,14 +163,14 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
 </div>
 
 
-<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Professional Experience</h1>
+<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">💼 Professional Experience</h1>
 
 * <details>
     <summary>
       Jan 2021 – Present<span class="expand-icon"></span>, <strong>Part-time Sterilization Expert</strong>, Duncan Sterilization Studio
     </summary>
     <div class="details-content">
-      <span class="section-sub-title">Responsibility:</span>
+      <span class="section-sub-title">Responsibilities:</span>
       <ul>
         <li>Conduct or support the validation activities on industrial sterilization (EO, radiation and moist heat).</li>
         <li>Conduct or support the validation on EO/ECH residual test method validation.</li>
@@ -183,7 +183,7 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
         <li>Drafting of documents on sterilization quality system.</li>
         <li>Perform auditing to sterilization subcontractor on behalf of customers or employers.</li>
       </ul>
-      <span class="section-sub-title">Achievements:</span>
+      <span class="section-sub-title">Key Achievements:</span>
       <ul>
         <li>Innovated a method to identify the most difficult points for EO sterilization in medical device products. This has made it possible to define a just-over-kill sterilization cycle.</li>
         <li>The method of design of conventional sterilization process challenge device (PCD) was developed and established. By the rules a series of PCDs with gradually increasing resistance to sterilization is able to be assembled and quantized on its resistance. The most important thing is the PCD construction unit is reusable.</li>
@@ -193,10 +193,10 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
 
 * <details>
     <summary>
-      Jan 2021 – Present<span class="expand-icon"></span>, <strong>Sterilization Improvement Project Expert</strong>, Jiangsu Changfeng Medical Industry Co., Ltd.
+      Jan 2021 – Feb 2021<span class="expand-icon"></span>, <strong>Sterilization Improvement Project Expert</strong>, Jiangsu Changfeng Medical Industry Co., Ltd.
     </summary>
     <div class="details-content">
-      <span class="section-sub-title">Job Description:</span>
+      <span class="section-sub-title">Responsibilities:</span>
       <ul>
         <li>Development, validation, and confirmation of novel eco-friendly and safe EO sterilization processes.</li>
         <li>Project initiation, design, and supervision of dedicated waste gas treatment equipment for EO sterilization processes.</li>
@@ -209,7 +209,7 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
       Jul 2017 – Dec 2020<span class="expand-icon"></span>, <strong>Senior Sterilization Lead</strong>, BD Rapid Diagnostic products (Suzhou) Co., Ltd.
     </summary>
     <div class="details-content">
-      <span class="section-sub-title">Responsibility:</span>
+      <span class="section-sub-title">Responsibilities:</span>
       <ul>
         <li>Responsible for Hypak product sterility assurance to achieve comprehensive performance targets in terms of quality, regulation, cost and efficiency.</li>
         <li>Establish the operating procedures for sterilization and production environment control and monitoring, supervise that the operating procedures are strictly implemented, and periodically evaluate and summarize to improve the effectiveness of sterilization and sterility assurance.</li>
@@ -222,7 +222,7 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
         <li>Regularly summarize and analyze sterilization and pollution control data for management review.</li>
         <li>Lead CAPA activities related to sterilization.</li>
       </ul>
-      <span class="section-sub-title">Achievements:</span>
+      <span class="section-sub-title">Key Achievements:</span>
       <ul>
         <li>The mathematical model on temperature rising profile of sterilization load was developed and established. It can be used for predicting (by calculation or plotting) the time required for the sterilization load to reach any specified starting temperature. By doing so it has greatly reduced cost of validation.</li>
         <li>Established a high-efficiency EO sterilization process with low EO residuals.</li>
@@ -238,7 +238,7 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
       Nov 1997 – Oct 2016<span class="expand-icon"></span>, <strong>QRM</strong>, Gambro Medical products (Shanghai) Co.,Ltd.
     </summary>
     <div class="details-content">
-      <span class="section-sub-title">Responsibility:</span>
+      <span class="section-sub-title">Responsibilities:</span>
       <ul>
         <li>Establish, implement and continuously improve a quality system.</li>
         <li>Identify, lead and sponsor quality improvement projects on product quality and process quality.</li>
@@ -257,7 +257,7 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
         <li>Medical device registration and continual registration.</li>
         <li>Support bidding activity of marketing department (sales companies, distributors) with dossier.</li>
       </ul>
-      <span class="section-sub-title">Major Achievement:</span>
+      <span class="section-sub-title">Key Achievements:</span>
       <ul>
         <li>Participated in the move of plant from Koga, Japan to Shanghai. Built up Shanghai quality team and establishment (Chemical lab/microbiological lab).</li>
         <li>Established the ISO13485 quality system and completed certification.</li>
@@ -292,7 +292,7 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
         <li>Quality assurance team building: resource planning, recruiting, training, qualification and evaluation.</li>
         <li>Keep liaison and contact with SFDA officials.</li>
       </ul>
-      <span class="section-sub-title">Major Achievement:</span>
+      <span class="section-sub-title">Key Achievements:</span>
       <ul>
         <li>Established the quality system of bloodline product production according cGMP and got through SFDA certification in 1997.</li>
         <li>Established the risk management system for blood products, implement the system in all phase of product and design change process.</li>
@@ -308,7 +308,7 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
       Sep 1991 – Feb 1993<span class="expand-icon"></span>, <strong>R&D Supervisor</strong>, Shanghai DuPont Agriculture products Co., Ltd.
     </summary>
     <div class="details-content">
-      <span class="section-sub-title">Responsibility:</span>
+      <span class="section-sub-title">Responsibilities:</span>
       <ul>
         <li>Introduction of Londax project, co-operate with Experiment Station to establish quality control methods.</li>
         <li>Responsible for the development of local formulations Londax.</li>
@@ -321,7 +321,7 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
       Sep 1990 – Sep 1991<span class="expand-icon"></span>, <strong>Lab Chief</strong>, Shanghai Institute of Entomology, Chinese Academy of Science
     </summary>
     <div class="details-content">
-      <span class="section-sub-title">Responsibility:</span>
+      <span class="section-sub-title">Responsibilities:</span>
       <ul>
         <li>Responsible for chemical synthesis of hormon of insects and the field application study.</li>
         <li>Management of chemical lab.</li>
@@ -334,7 +334,7 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
     </div>
   </details>
 
-<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">Education</h1>
+<h1 style="border-bottom: 1px solid #e1e4e8; padding-bottom: 0.5em; margin-bottom: 0.3em; margin-top: 30px;">🎓 Education</h1>
 
 * Sep 1985 – Sep 1990, **Shanghai Institute of Materia Medica, Chinese Academy of Sciences**, Ph.D. in Organic Chemistry
 * Sep 1980 – Jul 1985, **East China Normal University**, B.S. in Chemistry (Polymer Science)
