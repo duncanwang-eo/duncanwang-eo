@@ -167,7 +167,7 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
 
 * <details>
     <summary>
-      Feb 2021 – Present<span class="expand-icon"></span>, <strong>Part-time Sterilization Expert</strong>, Duncan Sterilization Studio
+      Jan 2021 – Present<span class="expand-icon"></span>, <strong>Part-time Sterilization Expert</strong>, Duncan Sterilization Studio
     </summary>
     <div class="details-content">
       <span class="section-sub-title">Responsibility:</span>
@@ -193,7 +193,7 @@ I am Dr. Xuerong (Duncan) Wang, possessing over 30 years of experience in qualit
 
 * <details>
     <summary>
-      Jan 2021 – Feb 2021<span class="expand-icon"></span>, <strong>Sterilization Improvement Project Expert</strong>, Jiangsu Changfeng Medical Industry Co., Ltd.
+      Jan 2021 – Present<span class="expand-icon"></span>, <strong>Sterilization Improvement Project Expert</strong>, Jiangsu Changfeng Medical Industry Co., Ltd.
     </summary>
     <div class="details-content">
       <span class="section-sub-title">Job Description:</span>
